@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Sophkfw
-- 👀 I’m interested in learning to Code!
-- 🌱 I’m currently learning PHP, Python, Java, React and C#.
-- 💞️ I’m looking to collaborate on lots of projects!
-
+- 👋 Hi, I’m Sophie.
+- 📖 I'm a Data Analysis Student, currently learning Tableau, Power BI, Python and SQL.
+- 👀 I’m interested in learning further techniques and languages to assist with data visualisation!
 
 <!---
 Sophkfw/Sophkfw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
